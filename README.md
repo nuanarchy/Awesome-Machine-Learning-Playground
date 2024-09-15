@@ -16,4 +16,4 @@ https://bbycroft.net/llm
 #### Transformer Visualization
 https://poloclub.github.io/transformer-explainer/
 
-PS: Send me links to expand my collection
+PS: Send me links to expand the collection

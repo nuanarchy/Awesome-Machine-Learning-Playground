@@ -20,7 +20,7 @@ https://poloclub.github.io/transformer-explainer/
 https://belladoreai.github.io/llama-tokenizer-js/example-demo/build/
 
 #### GPT Tokenizer
-https://platform.openai.com/tokenizer
+https://platform.openai.com/tokenizer</br>
 https://gpt-tokenizer.dev/
 
 PS: Send me links to expand the collection

@@ -16,11 +16,10 @@ https://bbycroft.net/llm
 #### Transformer Visualization
 https://poloclub.github.io/transformer-explainer/
 
-#### LLaMA Tokenizer
-https://belladoreai.github.io/llama-tokenizer-js/example-demo/build/
-
-#### GPT Tokenizer
+#### Tokenizer
+https://huggingface.co/spaces/Xenova/the-tokenizer-playground</br>
 https://platform.openai.com/tokenizer</br>
-https://gpt-tokenizer.dev/
+https://gpt-tokenizer.dev/</br>
+https://belladoreai.github.io/llama-tokenizer-js/example-demo/build/
 
 PS: Send me links to expand the collection

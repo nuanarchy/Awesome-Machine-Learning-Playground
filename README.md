@@ -19,6 +19,7 @@ https://poloclub.github.io/transformer-explainer/
 #### Tokenizer
 https://huggingface.co/spaces/Xenova/the-tokenizer-playground</br>
 https://platform.openai.com/tokenizer</br>
+https://gptforwork.com/tools/tokenizer
 https://gpt-tokenizer.dev/</br>
 https://belladoreai.github.io/llama-tokenizer-js/example-demo/build/
 
